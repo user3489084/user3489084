@@ -2,7 +2,7 @@
 <h3 align="center">I'm a developer from ██████ and I'm currently learning python and html.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=H3x;++;Self-taught+Python-Developer+,;Computer+Science+Lover,;CyberSec+Learner,;Active+Learner/Researcher,;Love+to+learn+new+stuff.<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=H3xxy;++;Self-taught+Python-Developer;Computer+Science+Lover;CyberSec+Learner;Active+Learner/Researcher;Love+to+learn+new+stuff.<3"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user3489084&label=Profile%20views&color=0e75b6&style=flat" alt="user3489084" /> </p>
