@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samir5940</h1>
 <h3 align="center">I'm a developer from ██████ and I'm currently learning python and html.</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Synthetic+Gens;++;Self-taught+Python-Developer+and+NodeJS+Dev,;Computer+Science+Student,;CyberSec+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user3489084&label=Profile%20views&color=0e75b6&style=flat" alt="user3489084" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
