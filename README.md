@@ -1,4 +1,4 @@
-![image](https://github.com/user3489084/user3489084/assets/155889564/6bf3623d-7a33-4b2c-bbdc-e8194a2817d8)<h1 align="center">Hi 👋, I'm Samir5940</h1>
+<h1 align="center">Hi 👋, I'm Samir5940</h1>
 <h3 align="center">I'm a developer from ██████ and I'm currently learning python and html.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user3489084&label=Profile%20views&color=0e75b6&style=flat" alt="user3489084" /> </p>
