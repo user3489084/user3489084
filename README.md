@@ -14,5 +14,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=nord" alt="H3xxy's GitHub Stats">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=nord" alt="H3xxy's GitHub Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user3489084&show_icons=true&theme=nord&locale=en&layout=compact" alt="user3489084" /></p>
 
