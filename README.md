@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=nord" alt="H3xxy's GitHub Stats" width="auto" height="auto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user3489084&theme=nord" alt="user3489084" width="auto" height="auto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user3489084&theme=nord" alt="user3489084" /></p>
 
