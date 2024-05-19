@@ -16,5 +16,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=shadow_blue" alt="H3xxy's GitHub Stats">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=shadow_blue&locale=en" alt="user3489084" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&locale=en" alt="user3489084" /></p>
 
