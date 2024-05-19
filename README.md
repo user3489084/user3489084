@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user3489084&show_icons=true&locale=en&layout=compact" alt="user3489084" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=shadow_blue" alt="H3xxy's GitHub Stats">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&locale=en" alt="user3489084" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user3489084&show_icons=true&theme=shadow_blue&locale=en" alt="user3489084" /></p>
 
