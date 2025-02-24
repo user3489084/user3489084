@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H3xxy</h1>
-<h3 align="center">I'm a developer from ██████ and I'm currently learning python and html.</h3>
+<h3 align="center">i code stuff cuh</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=H3xxy;++;Self-taught+Python-Developer;Computer+Science+Lover;CyberSec+Learner;Active+Learner/Researcher;Love+to+learn+new+stuff.<3"></a>
